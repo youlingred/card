@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "xiehui",
+  "license": "ISC",
+  "devDependencies": {
+    "pomelo": "^2.2.5"
+  }
+}
